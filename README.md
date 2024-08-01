@@ -1,1 +1,1 @@
-# Visual-Diagnostic-tool-for-C-
+# Visual-Diagnostic-tool-for-C++
